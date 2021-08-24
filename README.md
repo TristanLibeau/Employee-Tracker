@@ -11,6 +11,8 @@ This application is a simple tool to track your employees. To install it simply 
 
 If you still have issues starting the app run mysql -u root -p and source schema.sql and sedds.sql. Then run npm start again.
 
+Don't forget to create a .env file.
+
 ## Links
 
 * URL of my Repository:
