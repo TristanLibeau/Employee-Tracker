@@ -19,6 +19,10 @@ Don't forget to create a .env file.
 
 https://github.com/TristanLibeau/Employee-Tracker
 
+* Link to deomstration video:
+
+https://drive.google.com/drive/folders/1H36uuNEIwHTfqtoMxunW6wnTgFf0QGxT?usp=sharing
+
 
 ## Functionality:
 
